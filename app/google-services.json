@@ -1,0 +1,65 @@
+{
+  "project_info": {
+    "project_number": "628058251586",
+    "firebase_url": "https://praticando-99cda.firebaseio.com",
+    "project_id": "praticando-99cda",
+    "storage_bucket": "praticando-99cda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628058251586:android:0e30f1c77418568a",
+        "android_client_info": {
+          "package_name": "br.com.dev_sirox.autenticando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628058251586-arg4bjo020quce0gc90pnuec2ppdago8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.dev_sirox.autenticando",
+            "certificate_hash": "cabbbb3e4dc0b9b86610bb712f1af17ad7109af3"
+          }
+        },
+        {
+          "client_id": "628058251586-ob1a6k2ifkvgjvnl3robbi4ovi54dvhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4mOvImZ08-f43YZDuDzaNcB4HNu6X5Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628058251586-ob1a6k2ifkvgjvnl3robbi4ovi54dvhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "installed": {
+    "client_id": "379590412709-mpdka2h7gk4vr0j4bn47eqon42iapkob.apps.googleusercontent.com",
+    "project_id": "map-demo-1363",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "redirect_uris": [
+      "urn:ietf:wg:oauth:2.0:oob",
+      "http://localhost"
+    ]
+  }
+}
